@@ -14,5 +14,9 @@ public class Main {
         troyo.temperature="34787k";
         troyo.Radius="9989989km";
 
+        Planet2 Omaro=new Planet2();
+        Omaro.color="blue";
+        Omaro.Radius="54645653kg";
+
     }
 }
